@@ -2,10 +2,11 @@ RENCANA KEDEPANNYA
 
 -Bisa coding
 *CSS
-^External Style Sheet
-^Embedded style sheet
+^Membuat variasi website
+^Inline style sheet
 *HTML
 -Beli mobil
 -Daftar di AKTI
 -Bekerja
 -Beli rumah
+-Beli motor
