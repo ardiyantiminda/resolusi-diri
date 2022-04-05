@@ -2,6 +2,8 @@ RENCANA KEDEPANNYA
 
 -Bisa coding
 *CSS
+^External Style Sheet
+^Embedded style sheet
 *HTML
 -Beli mobil
 -Daftar di AKTI
