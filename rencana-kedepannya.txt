@@ -3,6 +3,7 @@ RENCANA KEDEPANNYA
 -Bisa coding
 *CSS
 ^Membuat variasi website
+^Inline style sheet
 *HTML
 -Beli mobil
 -Daftar di AKTI
