@@ -1,6 +1,8 @@
 RENCANA KEDEPANNYA
 
 -Bisa coding
+*CSS
+*HTML
 -Daftar di AKTI
 -Bekerja
 -Beli rumah
